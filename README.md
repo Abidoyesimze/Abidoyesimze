@@ -7,7 +7,7 @@ I love working on blockchain-based projects, including land registry systems, vo
 GeoTrust: A decentralized land registry platform that uses blockchain and smart contracts to tokenize land ownership,
 ensuring transparency, fraud prevention, and seamless property transfers.
 This project integrates features like cryptographic signatures, ownership history, and IPFS document storage.
-Developing scalable Web3 projects to solve real-life challenges and preparing for the Lisk incubation program.
+Developing scalable Web3 projects to solve real-life challenges 
 
 🛠️ Technologies I Use:
 Blockchain: Solidity, Hardhat, Ethers.js, OpenZeppelin, wagmi
