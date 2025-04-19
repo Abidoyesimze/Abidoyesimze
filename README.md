@@ -1,30 +1,27 @@
-👋 Hi, I'm Similoluwa Abidoye!
-
-I'm a Smart Contract Developer and Frontend Developer with a passion for building decentralized applications (dApps) that solve real-world problems.
-I love working on blockchain-based projects, including land registry systems, voting platforms, crowdfunding applications, and DeFi systems.
-
-🛠️ Technologies I Use:
-Blockchain: Solidity, Hardhat, Ethers.js, OpenZeppelin, wagmi
-Frontend:  JavaScript, React, Next.js, Tailwind CSS
-Smart Contracts:Solidity, Cairo ERC20, ERC721, Merkle Airdrop, Multisig
-Web3 Tools: Wagmi, Ethers Adapter, AppKit, IPFS, Alchemy
-📚 My Latest Projects:
-GeoTrust: A decentralized land registry platform.
-LearnChain: A decentralized platform that issue certificate for online learning platform and verify student credentials. Bridging between Learners, educators and employers.
-Voting System: Built on smart contracts for decentralized voting.
-Crowdfunding Platform: Blockchain-based system for secure funding.
-PharmaX: A smart contract-based system for pharmaceutical transactions, integrating features like KYC, product addition, and wallet connection.
-🌱 I'm Currently Learning:
-Further enhancing decentralized identity management for Web3 applications.
-Exploring real-world blockchain solutions in land ownership, voting, and supply chain transparency.
-🔗 Connect With Me:
-LinkedIn: https://www.linkedin.com/in/similoluwa-abidoye-8b7b982aa/
-Twitter: https://x.com/Simzeabidoye18
-Gmail: similoluwaeyitayoabidoye@gmail.com
+# 💫 About Me:
+- 🔭 I’m currently working OpenEdStore Decentralised Educational Storage Platform<br><br>A decentralised application (dApp) that enables secure, scalable, and cost-effective storage of educational content, such as research papers, course materials, and administrative records—leveraging Filecoin's decentralised storage network, IPFS for content addressing, and FVM-based smart contracts for automated storage deal management<br>- 🌱 I’m currently learning Cairo and i'm interested in Smart contract Auditing <br>- 👯 I’m looking to collaborate on open‑source Web3 projects, especially dApps that solve real‑world problems.<br>- 🤔 I’m looking for help with Smart contract Auditing  and gas‑optimization techniques in Smart Contracts.<br>- 💬 Ask me about building/deploying smart contracts with Hardhat, foundry Next.js + TypeScript, and integrating frontends with Smart contract.<br>- 📫 How to reach me: similoluwaeyitayoabidoye | [LinkedIn](https://www.linkedin.com/in/similoluwa-abidoye-8b7b982aa/) | [Twitter](https://x.com/simze_eth)<br>- 😄 Pronouns: He/Him<br>- ⚡️ Fun fact: I once tokenized a piece of land on an Ethereum testnet!<br>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mr_simze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/similoluwa-abidoye-8b7b982aa/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@similoluwaeyitayoabidoye) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@simze_eth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:similoluwaeyitayoabidoye@gmail.com) 
 
-<!---
-Abidoyesimze/Abidoyesimze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abidoyesimze&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abidoyesimze&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abidoyesimze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abidoyesimze&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abidoyesimze&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Abidoyesimze&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
